@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<company>
+    <name>Công Ty Vin</name>
+    <staff id="1">
+        <name>Giang</name>
+        <salary>8.5 USD</salary>
+    </staff>
+    <staff id="2">
+        <name>Hoai</name>
+        <salary>6.5 USD</salary>
+    </staff>
+    <staff id="3">
+        <name>Nhan</name>
+        <salary>3.2 USD</salary>
+    </staff>
+</company>
