@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <companyName>Công ty abc</companyName>
+    <director>
+        <firstName>Giang</firstName>
+        <lastName>Phạm</lastName>
+    </director>
+    <address>
+        <street>162 Đông Thien</street>
+        <city>Hà Nội</city>
+        <postalCode>346535</postalCode>
+        <country>Việt Nam</country>
+    </address>
+    <contact>
+        <phone>035-870-1976</phone>
+        <email>giang@xyz.com.vn</email>
+    </contact>
+    <taxCode>0126458236</taxCode>
+</company>
