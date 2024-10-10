@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <studentID>SV108</studentID>
+        <name>Pham Thi Thu Giang</name>
+        <birthYear>2005</birthYear>
+        <class>DHKL</class>
+        <gender>Nu</gender>
+    </student>
+    <student>
+        <studentID>SV109</studentID>
+        <name>Tran Minh Tam</name>
+        <birthYear>2005</birthYear>
+        <class>DHKL</class>
+        <gender>Nữ</gender>
+    </student>
+    <student>
+        <studentID>SV110</studentID>
+        <name>Dang Van Nam</name>
+        <birthYear>2005</birthYear>
+        <class>DHKL</class>
+        <gender>Nam</gender>
+    </student>
+</students>
